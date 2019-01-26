@@ -25,7 +25,7 @@ Made with Conan Wu (conanwu777 on github).
 * They can live stablely with MAXLIFE = 7, EAT_T = 2 and SLEEP_T = 1
 ![animation](CoolGIF.gif)
 
-* They die with MAXLIFE = 7, EAT_T = 5 and SLEEP_T = 2 (one needs MAX_LIFE at leat 12 for that, more to compensate threads does not running at the same speed)
+* They die with MAXLIFE = 7, EAT_T = 5 and SLEEP_T = 2 (one needs MAX_LIFE at least 13 to survive, sometimes more to compensate for threads not running at the same speed)
 ![animation](die.gif)
 
 ## Implementation
