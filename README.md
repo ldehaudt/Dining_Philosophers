@@ -2,6 +2,8 @@
 
 The dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them.
 
+Made with Conan Wu (conanwu777 on github).
+
 ## General setting
 
 * There are N philisophers sitting around a round table
